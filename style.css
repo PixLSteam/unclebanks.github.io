@@ -193,6 +193,7 @@ ul {
 }
 #townBox {
     text-align: center;
+    height: auto;
 }
 #navBox {
     grid-column: 2;
@@ -430,9 +431,4 @@ progress.expBar {
 }
 ul#shopItems li {
     margin-top: 2px;
-}
-.traderList {
-    max-height: 200px;
-    overflow-y: scroll;
-    overflow-x: hidden;
 }
