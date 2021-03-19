@@ -32,7 +32,7 @@ const POKEDEX: PokedexData[] = [
             'sp def': '65',
             'speed': '45',
             'types': [
-                'Grass',
+                'Gras',
                 'Poison',
             ],
         },
